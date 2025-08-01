@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Lalit — a passionate developer from India 🇮🇳</h2>
+<h2 align="center">Hi 👋, I'm Lalit — A passionate developer from India 🇮🇳</h2>
 
 ###
 

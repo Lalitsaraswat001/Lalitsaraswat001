@@ -34,6 +34,12 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Lalitsaraswat001&icon=4&color=4)](https://visitcount.itsvg.in)
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
